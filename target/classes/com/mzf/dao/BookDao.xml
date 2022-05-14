@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.mzf.dao.BookDao">
+    <insert id="addBook" parameterType="Book">
+       insert into book(bname,bprice,bcount,bdescribe)values(#{bname},#{bprice},#{bcount},#{bdescribe})
+    </insert>
+    <delete id="deleteBook" parameterType="int">
+       delete  from book where bid=#{bid}
+    </delete>
+
+    <update id="updateBook" parameterType="Book">
+        update  book set bname=#{bname},bprice=#{bprice},bcount=#{bcount},bdescribe=#{bdescribe} where bid=#{bid}
+    </update>
+
+<select id="seleteBookById" resultType="Book">
+select * from book where bid=#{bid}
+</select>
+
+    <select id="selectBookByName" resultType="Book">
+       select * from book where bname=#{bname}
+    </select>
+    <select id="selectAllBook" resultType="Book">
+        select * from book
+    </select>
+</mapper>

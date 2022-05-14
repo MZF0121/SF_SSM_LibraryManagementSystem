@@ -1,0 +1,2 @@
+# SF_SSM_LibraryManagementSystem
+基于SSM框架编写的图书管理系统（Spring-SpringMVC-MyBatis+MYSQL）毕业设计课程设计

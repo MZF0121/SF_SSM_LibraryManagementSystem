@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.mzf.dao.UserDao">
+    <insert id="addUser" parameterType="User">
+        insert into user(usex,uname,uage,uphone,upassword,uaddress)values(#{usex},#{uname},#{uage},#{uphone},#{upassword},#{uaddress});
+
+    </insert>
+    <delete id="deleteUser" parameterType="int">
+        delete from user where uphone=#{uphone}
+    </delete>
+    <update id="updateUser" parameterType="int">
+        update from user set uname=#{uname},uphone=#{uphone},uage=#{uage},usex=#{usex},uaddress=#{uaddress}
+    </update>
+    <select id="selectUserById" resultType="User">
+        select * from user where uid=#{uid}
+    </select>
+    <select id="selectuserByPh" resultType="User">
+        select * from user where uphone=#{uphone}
+    </select>
+    <select id="selectAllUser" resultType="User">
+        select * from user
+    </select>
+
+
+</mapper>

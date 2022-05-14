@@ -1,0 +1,365 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="SF_SSM_LibraryManagementSystem:war exploded" />
+    </artifacts-to-build>
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ae325dfa-f666-40f6-80a4-d93ce4855910" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="jdbc" />
+        <option value="MyBatis-config" />
+        <option value="spring-service" />
+        <option value="spring-mvc" />
+        <option value="spring-beans.schema" />
+        <option value="spring-web" />
+        <option value="mapper" />
+        <option value="Interface" />
+        <option value="Class" />
+        <option value="Jsp File" />
+      </list>
+    </option>
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="27eR9Xh4bfJU0eQQQkKmNVFqgzY" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="false" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="TODO_SCOPE" value="所有位置" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../MZF Springboot File/Project02-config" />
+    <property name="project.structure.last.edited" value="问题" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.38539898" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.mzf.service.Impl" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\IDEACODE\MZF Project\SF_SSM_LibraryManagementSystem\web\image" />
+      <recent name="E:\IDEACODE\MZF Project\SF_SSM_LibraryManagementSystem\web\wm\WMPHOTO" />
+      <recent name="E:\IDEACODE\MZF Project\SF_SSM_LibraryManagementSystem\web\CSS" />
+      <recent name="E:\IDEACODE\MZF Project\SF_SSM_LibraryManagementSystem\web\js" />
+      <recent name="E:\IDEACODE\MZF Project\SF_SSM_LibraryManagementSystem\web\WEB-INF\CSS" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\IDEACODE\MZF Project\SF_SSM_LibraryManagementSystem\web" />
+      <recent name="E:\IDEACODE\MZF Project\SF_SSM_LibraryManagementSystem\web\wm" />
+      <recent name="E:\IDEACODE\MZF Project\SF_SSM_LibraryManagementSystem\web\WEB-INF\jsp" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Tomcat 9.0.52" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 9.0.52" ALTERNATIVE_JRE_ENABLED="false" nameIsGenerated="true">
+      <option name="UPDATE_ON_FRAME_DEACTIVATION" value="true" />
+      <option name="UPDATE_CLASSES_ON_FRAME_DEACTIVATION" value="true" />
+      <deployment>
+        <artifact name="SF_SSM_LibraryManagementSystem:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="55cfd83d-da16-4ea8-99fc-37613280ddb7" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="59485" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Profile">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="SF_SSM_LibraryManagementSystem:war exploded" />
+        </option>
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ae325dfa-f666-40f6-80a4-d93ce4855910" name="Changes" comment="" />
+      <created>1649678414981</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1649678414981</updated>
+      <workItem from="1649678416172" duration="2224000" />
+      <workItem from="1649758822256" duration="5236000" />
+      <workItem from="1649765093253" duration="20000" />
+      <workItem from="1649765128200" duration="651000" />
+      <workItem from="1649765801839" duration="94000" />
+      <workItem from="1649765910312" duration="114000" />
+      <workItem from="1649766039882" duration="290000" />
+      <workItem from="1649766357686" duration="4546000" />
+      <workItem from="1649770962674" duration="32000" />
+      <workItem from="1649825382118" duration="83000" />
+      <workItem from="1649860093659" duration="355000" />
+      <workItem from="1649922720233" duration="722000" />
+      <workItem from="1649923758077" duration="221000" />
+      <workItem from="1649926095102" duration="287000" />
+      <workItem from="1650174579566" duration="767000" />
+      <workItem from="1650763327293" duration="2490000" />
+      <workItem from="1650765880603" duration="3259000" />
+      <workItem from="1650786300922" duration="1811000" />
+      <workItem from="1650789257388" duration="40000" />
+      <workItem from="1650789318850" duration="3394000" />
+      <workItem from="1650798285214" duration="5419000" />
+      <workItem from="1650803781652" duration="2231000" />
+      <workItem from="1650806068449" duration="806000" />
+      <workItem from="1650807512831" duration="1085000" />
+      <workItem from="1650810749845" duration="2009000" />
+      <workItem from="1650812808364" duration="4665000" />
+      <workItem from="1650860445784" duration="794000" />
+      <workItem from="1650868851835" duration="3190000" />
+      <workItem from="1650872092770" duration="3083000" />
+      <workItem from="1650875229017" duration="5377000" />
+      <workItem from="1650886269173" duration="4331000" />
+      <workItem from="1650890733704" duration="3029000" />
+      <workItem from="1650898270138" duration="4316000" />
+      <workItem from="1650948601855" duration="8748000" />
+      <workItem from="1650960406627" duration="327000" />
+      <workItem from="1650960757854" duration="2240000" />
+      <workItem from="1650968823326" duration="11239000" />
+      <workItem from="1650992311743" duration="662000" />
+      <workItem from="1651037700215" duration="12120000" />
+      <workItem from="1651064831531" duration="1424000" />
+      <workItem from="1651209906067" duration="2348000" />
+      <workItem from="1651231281192" duration="5985000" />
+      <workItem from="1651243714909" duration="2110000" />
+      <workItem from="1651246702248" duration="33000" />
+      <workItem from="1651307324290" duration="608000" />
+      <workItem from="1651315670881" duration="7027000" />
+      <workItem from="1651322955244" duration="2286000" />
+      <workItem from="1651362753794" duration="4303000" />
+      <workItem from="1651424979883" duration="121000" />
+      <workItem from="1651425118323" duration="1910000" />
+      <workItem from="1651429076247" duration="36000" />
+      <workItem from="1651498914942" duration="56000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/mzf/controller/UserController.java</url>
+          <line>87</line>
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/mzf/controller/UserController.java</url>
+          <line>82</line>
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/mzf/controller/UserController.java</url>
+          <line>79</line>
+          <option name="timeStamp" value="22" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/mzf/controller/UserController.java</url>
+          <line>78</line>
+          <option name="timeStamp" value="23" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/mzf/controller/UserController.java</url>
+          <line>28</line>
+          <option name="timeStamp" value="24" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/mzf/controller/BookController.java</url>
+          <line>57</line>
+          <option name="timeStamp" value="31" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/mzf/controller/BookController.java</url>
+          <line>58</line>
+          <option name="timeStamp" value="32" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/mzf/controller/BookController.java</url>
+          <line>59</line>
+          <option name="timeStamp" value="33" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/mzf/controller/BookController.java</url>
+          <line>63</line>
+          <option name="timeStamp" value="34" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/mzf/controller/BookController.java</url>
+          <line>64</line>
+          <option name="timeStamp" value="35" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/mzf/controller/SuperAdminController.java</url>
+          <line>26</line>
+          <option name="timeStamp" value="37" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/mzf/controller/SuperAdminController.java</url>
+          <line>27</line>
+          <option name="timeStamp" value="38" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/mzf/controller/SuperAdminController.java</url>
+          <line>28</line>
+          <option name="timeStamp" value="39" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/mzf/controller/SuperAdminController.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="40" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/mzf/controller/SuperAdminController.java</url>
+          <line>21</line>
+          <option name="timeStamp" value="44" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/mzf/controller/BookController.java</url>
+          <line>24</line>
+          <option name="timeStamp" value="45" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/mzf/controller/BookController.java</url>
+          <line>40</line>
+          <option name="timeStamp" value="46" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/com/mzf/controller/SuperAdminController.java</url>
+          <line>25</line>
+          <properties class="com.mzf.controller.SuperAdminController" method="seleSAD">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="36" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/com/mzf/controller/SuperAdminController.java</url>
+          <line>20</line>
+          <properties class="com.mzf.controller.SuperAdminController" method="setSuperAdminService">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="43" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-field">
+          <url>file://$PROJECT_DIR$/src/main/java/com/mzf/controller/SuperAdminController.java</url>
+          <line>18</line>
+          <properties field="superAdminService" class="com.mzf.controller.SuperAdminController" />
+          <option name="timeStamp" value="42" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/SF_SSM_LibraryManagementSystem$Tomcat_9_0_52.ic" NAME="Tomcat 9.0.52 覆盖结果" MODIFIED="1650875413587" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>

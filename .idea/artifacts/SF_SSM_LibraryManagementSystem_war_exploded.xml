@@ -1,0 +1,33 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="SF_SSM_LibraryManagementSystem:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/SF_SSM_LibraryManagementSystem_war_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="SF_SSM_LibraryManagementSystem/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="SF_SSM_LibraryManagementSystem" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="library" level="project" name="Maven: javax.servlet:javax.servlet-api:4.0.1" />
+          <element id="library" level="project" name="Maven: javax.servlet.jsp:jsp-api:2.2.1-b03" />
+          <element id="library" level="project" name="Maven: javax.servlet:jstl:1.2" />
+          <element id="library" level="project" name="Maven: org.mybatis:mybatis:3.5.1" />
+          <element id="library" level="project" name="Maven: org.mybatis:mybatis-spring:2.0.1" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-webmvc:5.3.18" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-aop:5.3.18" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-beans:5.3.18" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-context:5.3.18" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-core:5.3.18" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-jcl:5.3.18" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-expression:5.3.18" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-web:5.3.18" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-jdbc:5.2.15.RELEASE" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-tx:5.2.15.RELEASE" />
+          <element id="library" level="project" name="Maven: org.projectlombok:lombok:1.16.10" />
+          <element id="library" level="project" name="Maven: mysql:mysql-connector-java:5.1.37" />
+          <element id="library" level="project" name="Maven: com.alibaba:druid:1.2.8" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
